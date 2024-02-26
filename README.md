@@ -11,9 +11,7 @@
 <li>
   📖 3°Ano do ensino Médio. <br>
 </li>
-<li>
-  💖 Adoro programar no meu tempo livre. <br><br>
-</li>
+
 
 <b>🧠 O que eu uso nos meus projetos❔</b> <br><br>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
